@@ -11,13 +11,13 @@
 
       <div class="flex justify-center space-x-2 mt-6 lg:mt-10">
         <a
-          href="https://www.digitalocean.com/docs/app-platform"
+          href="https://www.linkedin.com/in/kewinal/"
           class="inline-block py-2 lg:py-4 px-4 lg:px-8 rounded bg-green-500 hover:bg-green-400 text-green-100 shadow hover:shadow-2xl transition duration-300"
-        >View the DO Docs</a>
+        >View Linkedin</a>
         <a
-          href="https://cloud.digitalocean.com/apps"
+          href="https://github.com/KewinAl"
           class="inline-block py-2 lg:py-4 px-4 lg:px-8 rounded bg-yellow-400 hover:bg-yellow-300 text-yellow-800 shadow hover:shadow-2xl transition duration-300"
-        >View my Dashboard</a>
+        >View Github</a>
       </div>
     </div>
   </div>
